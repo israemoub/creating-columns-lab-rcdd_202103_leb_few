@@ -47,10 +47,8 @@ img:hover {
 }
 
 .column {
-  display: flex;
-  flex-direction: row;
-  width: 96%;
-  flex-wrap: wrap;
+  display: inline;
+  width: 100%;
 }
 
  .small {
