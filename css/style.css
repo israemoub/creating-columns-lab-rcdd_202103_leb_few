@@ -47,8 +47,10 @@ img:hover {
 }
 
 .column {
-  display: inline-block;
-  width: 30%;
+display: flex;
+	  flex-flow: row wrap;
+width: 100%;
+
 }
 
  .small {
