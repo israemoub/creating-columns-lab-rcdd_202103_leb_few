@@ -47,9 +47,8 @@ img:hover {
 }
 
 .column {
-  display: flex;
-  flex-flow: row wrap;
-  width: 100%;
+  display: inline-block;
+  width: 30%;
 }
 
  .small {
